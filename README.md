@@ -25,11 +25,3 @@ Before you begin, ensure you have the following installed:
 - **IDE:** Visual Studio 2019/2022, Visual Studio Code, or a compatible editor.
 - **Azure Account:** (Optional) For publishing your website to Azure.
 
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/DynamicAspNetWebsite.git
-   cd DynamicAspNetWebsite
-
